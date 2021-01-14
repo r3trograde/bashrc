@@ -26,3 +26,4 @@ alias gcm='git commit -m'
 # misc
 alias ..='cd ..'
 alias cls='clear'
+alias nf='neofetch'
