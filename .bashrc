@@ -23,6 +23,10 @@ alias gpom='git push origin master'
 alias grao='git remote add origin'
 alias gcm='git commit -m'
 
+# bash
+alias bashconfig="vim ~/.bashrc"
+alias reload="source ~/.bashrc"
+
 # misc
 alias ..='cd ..'
 alias cls='clear'
