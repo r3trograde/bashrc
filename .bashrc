@@ -31,3 +31,4 @@ alias reload="source ~/.bashrc"
 alias ..='cd ..'
 alias cls='clear'
 alias nf='neofetch'
+alias home='cd ~'
